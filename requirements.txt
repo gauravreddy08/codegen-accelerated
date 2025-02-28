@@ -1,0 +1,5 @@
+openai
+rich
+tiktoken
+python-dotenv
+cssutils
