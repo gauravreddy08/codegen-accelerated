@@ -1,3 +1,5 @@
+##### [**Video**](https://youtu.be/hc_7q45rHvY) | [**Blog**](https://gauravreddy08.github.io/portfolio/writeups/accelerating-code-llms/)
+
 ## Getting Started
 
 1. Clone the repository:
